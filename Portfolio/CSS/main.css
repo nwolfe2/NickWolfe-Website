@@ -671,6 +671,13 @@ body {
 	.header .menu-icon .navicon:after {
 	top: -9px;
 	}
+
+
+@media (min-width: 300px) and (max-width: 700px) {
+  .header .logo {
+    font-size: 20px;
+  }
+}
 	
 	/* menu btn */
 	
